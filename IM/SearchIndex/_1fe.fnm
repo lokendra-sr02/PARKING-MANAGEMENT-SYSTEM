@@ -1,0 +1,17 @@
+þÿÿÿÃ###id###VisulizationRootBrowsableId###TargetIdNameDisplayName-###SearchableNonTechnicalFieldNamesOfDocument###ParentIds###ImmediateParentId###ReferenceFieldIds###ReconstitutionDataIDAssociatedCultureFieldIdAssociatedProjectVersion!AssociatedIndexDataVersionFieldId,AssociatedTechnicalFieldNamesHashCodeFieldId-AssociatedTechnicalFieldContentVersionFieldIdIndexAtomStoreCommentDatatypeValue###SearchFilterIdsTitleLanguageVersionConstant nameEvent class###UpdatableParentIdInterfaceMember_NameInterfaceMember_DatatypeInterfaceMember_ValueInterfaceMember_CommentNetwork titleLADFBD CodeAddressAuthorFamilyUser-defined IDInstance DBAcknowledgementModelIdEmailAddressAcknowledgedText
+ComingText	GoingTextAcknowledgementGroupTextInvalidAttempts	ValidDaysWarningDaysGenerationsMinNumPsswd
+ServerName
+PortNumberWindowsDomain	CycleUnit	CycleTimeNumber	ShortName
+LogoutTimeDataType	BackColor	GridColor
+LineColor1
+LineColor2OperatableAreaColor
+VisibilityTemplateBackFillStyleBorderBackColorBorderColor	EdgeStyleFlashingFont	ForeColorHorizontalAlignmentLayerTextTextOrientationVerticalAlignmentCommonAlarmClassStationNamePartnerNameNodeNameAboveUpperLimitColorBelowLowerLimitColor
+DataFormatFormatPatternModeUnitPropertyNameTagValueForPropertyTagPageTagAddressPanelInfoAddressAccessModeAcquisitionTriggerModeAcquisitionCycleConfirmationTypeCoding
+ConnectionPlcNameControllerTagLimitHighConstantLimitHighLowConstantLimitLowHighConstantLimitLowConstant	JobNumber
+StartValueUITypeEditorBitPositionUITypeEditorStartvalueUITypeEditorEndvalueUITypeEditorTagExpressionRangeFromTo	DialColorNeedleBorderColorNeedleColorNeedleFillStyleNumberStyle
+TicksColor	TickStyleCaptionColorCaptionFontCaptionTextCenterColorDangerLowerRangeColorDangerRangeColorDialFillStyleInnerDialColorNormalRangeColorPointerColorScaleLabelColorScaleLabelFontScaleTickColor	UnitColorUnitFontUnitTextWarningLowerRangeColorWarningRangeColorScrollbarBackgroundColorScrollbarForegroundColorAdaptPicture
+AutoSizingPictureTransparentColorFirstGradientColor
+FocusColorHorizontalPictureAlignmentMiddleGradientColorPictureAutoSizingSecondGradientColorTextOffTextOnVerticalPictureAlignment	FunctionsAcknowledgementBitAddress
+AlarmClassPlcAcknowledgementBitAddressTriggerBitAddressAlarmSourceButtonBackColorButtonBackFillStyleButtonBarStyleButtonBorderBackColorButtonBorderColorButtonEdgeStyleButtonFirstGradientColorButtonMiddleGradientColorButtonSecondGradientColorColumnTextAckGroupColumnTextAlarmStateColumnTextAlarmTextColumnTextClassNameColumnTextDateColumnTextDeviceColumnTextDiagnosableColumnTextNumberColumnTextTime
+FilterTextGridlineColorSelectionBackColorSelectionForeColorSortByTimeDirectionTableBackColorTableEvenRowBackColor	TableFontTableForeColorTableHeaderBackColorTableHeaderBackFillStyleTableHeaderBorderBackColorTableHeaderBorderColorTableHeaderEdgeStyleTableHeaderFirstGradientColorTableHeaderFontTableHeaderForeColorTableHeaderMiddleGradientColorTableHeaderSecondGradientColorViewType	AlarmText
+TriggerTag
